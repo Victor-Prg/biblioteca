@@ -1,0 +1,14 @@
+*.class
+*.jar
+*.war
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+nbproject/
+build/
+dist/
+out/
+target/
